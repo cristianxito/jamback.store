@@ -61,3 +61,18 @@ form .username{
     pointer-events: none;
 }
 
+.titulo{
+    transform: translate( 43%, 43%);
+}
+
+.idioma{
+    transform: translate( 70%, 50%);
+}
+
+.ayuda{
+    transform: translate( 80%, -45%);
+}
+
+.iniciosesion{
+    transform: translate( 90%, -135%);
+}
