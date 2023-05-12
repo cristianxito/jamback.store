@@ -1,20 +1,20 @@
 .img1{
     width: 50px;
     height: 50px;
-    transform: translate( 150%, -2490%);
+    transform: translate( 350%, -2050%);
 }
 
 .img2{
     width: 45px;
-    transform: translate( 2020%, -2770%);
+    transform: translate( 2225%, -2285%);
 }
 
 .jamback{
     padding: 20px;
     font-size: 50px;
-    transform: translate(10%,-730%);
+    transform: translate(30%,-570%);
     text-align: center;
-    color: blue;
+    color: black;
 }
 
 .formulario{
@@ -64,23 +64,23 @@ form .username{
 }
 
 .ayuda{
-    transform: translate( 125%, -2920%);
+    transform: translate( 150%, -2280%);
     font-size: 20px;
 }
 
 .idioma{
     font-size: 20px;
-    transform: translate( 125%, -2650%);
+    transform: translate( 150%, -2210%);
 }
 
 .iniciosesion{
-    transform: translate( 125%, -3190%);
+    transform: translate( 150%, -2660%);
     color: black;
     font-size: 20px;
 }
 
 .buscador{
-    transform: translate( 5%, -3150%);
+    transform: translate( 30%, -2685%);
     width: 800px;
     height: 40px;
 }
@@ -97,7 +97,10 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #51ab24;
+    background: #373B44;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 ul{
@@ -139,19 +142,19 @@ ul li a:hover::before{
 }
 
 .modelo{
-    transform: translate( -270%,545%);
+    transform: translate( -140%,545%);
 }
 
 .deporte{
-    transform: translate(-160%, 348%);
+    transform: translate(-70%, 348%);
 }
 
 .obsside{
-    transform: translate(-60%,153%);
+    transform: translate(0%,153%);
 }
 
 .jordan{
-    transform: translate(40%,-40%);
+    transform: translate(60%,-40%);
 }
 
 #cuadrado{
@@ -165,7 +168,7 @@ ul li a:hover::before{
 }
 
 .ulas{
-    transform: translate(-35%,-40%);
+    transform: translate(-90%,-40%);
     height: 385px;
 }
 
@@ -185,12 +188,6 @@ ul li a:hover::before{
     transform: translate(-268%,-585%);
 }
 
-#cuadr{
-    width: 300px;
-    height: 400px;
-    background: red;
-    animation-name: mam;
-}
 
 .bnbn{
     transform: translate(-35%, -339%);
