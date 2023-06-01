@@ -88,6 +88,14 @@ header .navbar a:hover{
     color: var(--pink);
 }
 
+.navbar {
+    display: flex;
+}
+
+.navbar a{
+    line-height: 40px;
+}
+
 header .icons a{
     font-size: 2.5rem;
     color: #333;
@@ -421,4 +429,66 @@ header .fa-bars{
 .contact .row form textarea{
     height: 15rem;
     resize: none;
+}
+
+.centrar{
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.entrada_cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input{
+    width: 120px;
+    height: 50px;
+    color: #333;
+
+    border: none;
+    outline: none;
+
+    border-radius: 50px 0px 0px 50px;
+
+    padding: 20px;
+    font-size: 18px;
+    transition: all .5s ease;
+
+}
+
+input:hover{
+    width: 250px;
+
+}
+input:focus{
+    width: 250px;
+
+}
+.cont1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(27, 88,131);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0px 50px 50px 0px;
+
+}
+.cont2{
+    width: 40px;
+    height: 40px;
+    background-color: #7ba6ff;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
