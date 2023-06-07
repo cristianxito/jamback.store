@@ -33,6 +33,7 @@ body{
     text-transform: capitalize;
     font-size: 20px;
     margin-bottom: 25px;
+    margin-top: -33%;
 }
 
 .info h2 {
@@ -40,6 +41,7 @@ body{
     text-decoration: uppercase;
     font-size: 50px;
     margin-bottom: 25px;
+    margin-top: -5%;
 }
 
 .info hr {
@@ -52,6 +54,7 @@ body{
 .text-2 {
     color: #f30707;
     font-size: 18px;
+    
 }
 
 .form {
@@ -105,4 +108,13 @@ body{
     font-size: 18px;
     text-transform: uppercase;
     border-radius: 25px;
+}
+.container .form p{
+    color: red;
+}
+
+.container .info .txt-21{
+    color: red;
+    margin-top: 60%;
+    margin-left: -0%;
 }
