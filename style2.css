@@ -103,8 +103,8 @@ header .navbar a:hover{
 }
 
 .navbar .centrar{
-    margin-top: -3.6%;
-    margin-left: 15%;
+    margin-top: -2.9%;
+    margin-left: 12%;
 }
 
 
@@ -343,7 +343,7 @@ header .fa-bars{
 .continer .products-container .product .price{
     font-size: 2rem;
     color: #444;
-    margin-left: -66%;
+    margin-left: -49%;
     margin-top: 10%;
 }
 
@@ -355,7 +355,6 @@ header .fa-bars{
 
 .continer .products-container .product h4{
     font-size: 1.2rem;
-    font-weight: lighter;
     text-align: start;
 }
 
@@ -565,6 +564,7 @@ input:focus{
     color: #333;
     font-size: 2.5rem;
     padding: 1rem 0;
+    margin-left: 15%;
 }
 
 .footer .box-container .box a{
@@ -572,6 +572,7 @@ input:focus{
     color: #666;
     font-size: 1.5rem;
     padding: 1rem 0;
+    margin-left: 15%;
 }
 
 .footer .box-container .box a:hover{
@@ -582,6 +583,7 @@ input:focus{
 .footer .box-container .box img{
     margin-top: 1rem;
     height: 90px;
+    margin-left: 15%;
 }
 
 .footer .credit{
@@ -597,3 +599,30 @@ input:focus{
 .footer .credit span{
     color: red;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
